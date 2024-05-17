@@ -37,7 +37,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", ""))
-chaturl = os.environ.get("chaturl","https://t.me/+nEhpCyb84c44YmVl")
+chaturl = os.environ.get("chaturl","https://t.me/+9zOIR8v7GikxOWFl")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "10"))
 
